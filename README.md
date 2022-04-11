@@ -16,7 +16,7 @@ Trust is biggest problem in our society today. One of the element of trust is to
 
 Essentially this means that the deployment of verified code has to be trustworthy. The deployment process should happen using established paths where each transfer is verifiable on a blockchain. The cpu nodes are configured to only receive code from blockchain and not by any direct means.  This approach is already taken by modern routers. The code can be auditably deployed.
 
-Such a node can't have usual login based OS. It would have to minimize the number of software components. Most likely, this new ecosystem will be pure hardware nodes to run bare programs, and not operating systems.
+Such a node can't have usual login based OS. It would have to minimize the number of software components. Most likely, this new ecosystem will be pure hardware nodes to run bare programs, and not operating systems. Unikernel ecosystem is very relevant: https://unzip.dev/0x005-unikernels/
 
 There are many implications that will result:
 * The nodes are now quite passive, so brand of datacenter shouldn't matter. Instead of capital intensive clouds by biggies, we can have thousands of smaller datacenters. The reliability should come from distributed system, and not by centralization. 
