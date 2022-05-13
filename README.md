@@ -10,6 +10,9 @@ At best, the developer will implement the requirement and add git commit logs to
 
 We need a totally different approach, which I have documented in the pdf: [FeatureManagementUsingMarkups.pdf](https://github.com/codevin/codevin/files/8439808/FeatureManagementUsingMarkups.pdf)
 
+While the document suggests a YAML based specification approach, I have since revised my ideas, a new approach energed - directly using coding to manage features. This is reflected in the Development Repo: [FeaturePlus](https://github.com/codevin/featureplus)
+
+
 ## Verified Source Computing
 
 Trust is biggest problem in our society today. One of the element of trust is to trust the computing ecosystem. If I can be sure that the remove server is running a verified code (either opensource or audited publically), that is a better way of trust than blind trust in big brands.
